@@ -15,35 +15,27 @@ pdf: true
 ## 教育经历
 
 ### __吉林大学__ `2011.9 - 2014.7`
-```
-New York, NY
-```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
+- 硕士研究生
+- 计算机应用技术
 
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+### __烟台大学__ `2007.9 - 2011.7`
+- 本科
+- 计算机科学与技术
 
-## Publications
+## 工作经历
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
+### __去哪儿网__ `2014.7 - 至今`
+- 酒店事业部  `2014.7 - 2016.6`
+- 创新事业部-保险金融部门（独立实体） `2016.6 - 至今`
+
+
 [[repo](https://github.com/penrose/penrose)]
 
 ### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
 __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF](assets/superres.pdf)]
 
-## Experience
+## 项目经历
 
 ### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
 _Research Assistant_<br>
@@ -58,7 +50,7 @@ _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
 
-## Teaching
+## 技术清单
 
 Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2018` <br>
 Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
