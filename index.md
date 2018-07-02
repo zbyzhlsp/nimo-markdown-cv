@@ -3,7 +3,7 @@ layout: cv
 title: Nimo's CV
 pdf: true
 ---
-# Wode __Ni__
+# 庞玉彤
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
@@ -12,9 +12,9 @@ pdf: true
 <a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
 </div>
 
-## Education
+## 教育经历
 
-### __Columbia University__ `2016.9 - Present`
+### __吉林大学__ `2011.9 - 2014.7`
 ```
 New York, NY
 ```
